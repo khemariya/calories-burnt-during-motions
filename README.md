@@ -1,4 +1,5 @@
-# calories-burnt-during-motions
+# calories-burnt-during-physical ACTIVITY
+
 ML model which predicts calories burnt during physical activity
 
 git clone https://github.com/khemariya/calories-burnt-during-motions
